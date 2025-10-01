@@ -3,7 +3,7 @@
 
 veins inside life
 
-Skills: Pyton
+Skills: Python
 
 - 🔭 I’m currently working on this page. 
 
